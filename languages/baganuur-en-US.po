@@ -1,0 +1,5682 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apeco Core v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-18 10:53:07+0000\n"
+"Last-Translator: admin <wwwww@wwwww.www>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#. translators: plugin header field 'Name'
+#: apeco-core.php:0
+#@ apeco
+msgid "Apeco Core"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: apeco-core.php:0
+#@ apeco
+msgid "http://www.themewaves.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: apeco-core.php:0
+#@ apeco
+msgid "Enables a portfolio and visual composer extend."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: apeco-core.php:0
+#: vc_extend/elements/setsen-ut-tabs-options.php:43
+#@ apeco
+msgid "Themewaves"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: apeco-core.php:0
+#@ apeco
+msgid "1.0"
+msgstr ""
+
+#: custom-post-type.php:29
+#: custom-post-type.php:40
+#@ apeco
+msgid "Portfolios"
+msgstr ""
+
+#: custom-post-type.php:30
+#: vc_extend/elements/setsen-ut-portfolio-options.php:74
+#@ apeco
+msgid "Portfolio"
+msgstr ""
+
+#: custom-post-type.php:31
+#@ apeco
+msgid "Add New"
+msgstr ""
+
+#: custom-post-type.php:32
+#@ apeco
+msgid "Add New Portfolio"
+msgstr ""
+
+#: custom-post-type.php:33
+#@ apeco
+msgid "Edit Portfolio"
+msgstr ""
+
+#: custom-post-type.php:34
+#@ apeco
+msgid "New Portfolio"
+msgstr ""
+
+#: custom-post-type.php:35
+#@ apeco
+msgid "All Portfolios"
+msgstr ""
+
+#: custom-post-type.php:36
+#@ apeco
+msgid "View Portfolio"
+msgstr ""
+
+#: custom-post-type.php:37
+#@ apeco
+msgid "Search Portfolios"
+msgstr ""
+
+#: custom-post-type.php:38
+#@ apeco
+msgid "No Portfolio found"
+msgstr ""
+
+#: custom-post-type.php:39
+#@ apeco
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: custom-post-type.php:56
+#@ apeco
+msgid "Portfolio Categories"
+msgstr ""
+
+#: custom-post-type.php:56
+#@ apeco
+msgid "Portfolio Category"
+msgstr ""
+
+#: custom-post-type.php:66
+#@ apeco
+msgid "Portfolio Title"
+msgstr ""
+
+#: custom-post-type.php:67
+#@ apeco
+msgid "Categories"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:6
+#@ apeco
+msgid "Active section"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:8
+#: vc_extend/elements/setsen-ut-accordion-options.php:16
+#@ apeco
+msgid "Enter section number to be active on load or enter \"false\" to collapse all sections."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:12
+#@ apeco
+msgid "Choose Accordion Style"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:14
+#@ apeco
+msgid "Style 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:14
+#@ apeco
+msgid "Style 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:14
+#@ apeco
+msgid "Style 3"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:20
+#@ apeco
+msgid "Allow collapse all sections?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:22
+#@ apeco
+msgid "If checked, it is allowed to collapse all sections."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:23
+#: vc_extend/elements/setsen-ut-accordion-options.php:30
+#: vc_extend/elements/setsen-ut-map-options.php:15
+#: vc_extend/elements/setsen-ut-map-options.php:58
+#: vc_extend/elements/setsen-ut-partner-options.php:8
+#: vc_extend/elements/setsen-ut-video-options.php:71
+#: vc_extend/init.php:395
+#@ apeco
+msgid "Yes"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:27
+#@ apeco
+msgid "Disable keyboard interactions?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:29
+#@ apeco
+msgid "If checked, disables keyboard arrow interactions (Keys: Left, Up, Right, Down, Space)."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:38
+#@ apeco
+msgid "Accordion"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:44
+#@ apeco
+msgid "Collapsible content panels"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:46
+#@ apeco
+msgid "Add section"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:47
+#@ apeco
+msgid "Section 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-options.php:47
+#@ apeco
+msgid "Section 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-tab-options.php:6
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:5
+#: vc_extend/elements/setsen-ut-heading-options.php:17
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:6
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:6
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:12
+#: vc_extend/elements/setsen-ut-tab-options.php:6
+#@ apeco
+msgid "Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-tab-options.php:8
+#@ apeco
+msgid "Enter accordion section title."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-tab-options.php:12
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:28
+#: vc_extend/elements/setsen-ut-divider-options.php:26
+#: vc_extend/elements/setsen-ut-tab-options.php:12
+#: vc_extend/elements/setsen-ut-toggle-options.php:40
+#@ apeco
+msgid "Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-tab-options.php:14
+#: vc_extend/elements/setsen-ut-tab-options.php:14
+#: vc_extend/elements/setsen-ut-toggle-options.php:42
+#@ apeco
+msgid "Select Color."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-accordion-tab-options.php:23
+#@ apeco
+msgid "Section"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:7
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:7
+#@ apeco
+msgid "Post category"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:11
+#: vc_extend/elements/setsen-ut-portfolio-options.php:11
+#@ apeco
+msgid "Select category."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:16
+#: vc_extend/elements/setsen-ut-portfolio-options.php:43
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:17
+#@ apeco
+msgid "Post count"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:20
+#: vc_extend/elements/setsen-ut-blog-options.php:28
+#: vc_extend/elements/setsen-ut-portfolio-options.php:46
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:21
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:29
+#@ apeco
+msgid "Only integer value."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:25
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:26
+#@ apeco
+msgid "Excerpt word lenght"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:33
+#@ apeco
+msgid "Featured image height"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:36
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:37
+#@ apeco
+msgid "Only integer value.(px)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:40
+#@ apeco
+msgid "Read more text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:44
+#@ apeco
+msgid "If empty, read more button hidden"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:48
+#@ apeco
+msgid "Blog Layout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:50
+#@ apeco
+msgid "Standard"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:50
+#: vc_extend/elements/setsen-ut-portfolio-options.php:17
+#: vc_extend/ion-font-icons.php:245
+#@ apeco
+msgid "Grid"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:56
+#: vc_extend/elements/setsen-ut-portfolio-options.php:58
+#@ apeco
+msgid "Pagination ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:58
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:42
+#: vc_extend/elements/setsen-ut-heading-options.php:9
+#: vc_extend/elements/setsen-ut-portfolio-options.php:53
+#: vc_extend/elements/setsen-ut-portfolio-options.php:60
+#: vc_extend/init.php:87
+#: vc_extend/init.php:99
+#: vc_extend/init.php:216
+#@ apeco
+msgid "None"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:58
+#: vc_extend/elements/setsen-ut-portfolio-options.php:53
+#: vc_extend/elements/setsen-ut-portfolio-options.php:60
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:32
+#: vc_extend/elements/setsen-ut-tabs-options.php:9
+#@ apeco
+msgid "Simple"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:58
+#: vc_extend/elements/setsen-ut-portfolio-options.php:60
+#@ apeco
+msgid "Infinite"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-blog-options.php:68
+#@ apeco
+msgid "Blog"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:6
+#@ apeco
+msgid "Button Size"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:8
+#: vc_extend/elements/setsen-ut-heading-options.php:54
+#@ apeco
+msgid "Small"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:8
+#@ apeco
+msgid "Medium"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:8
+#: vc_extend/elements/setsen-ut-heading-options.php:54
+#@ apeco
+msgid "Large"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:8
+#@ apeco
+msgid "Extra Large"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:10
+#@ apeco
+msgid "Choose button size"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:14
+#@ apeco
+msgid "Button Layout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:16
+#@ apeco
+msgid "Flat"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:16
+#@ apeco
+msgid "Border"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:18
+#@ apeco
+msgid "Choose button style"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:23
+#@ apeco
+msgid "Button Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:26
+#: vc_extend/elements/setsen-ut-list-options.php:16
+#@ apeco
+msgid "Choose color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:31
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:18
+#@ apeco
+msgid "Button Link"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:33
+#, php-format
+#@ apeco
+msgid "url:http%3A%2F%2Fthemeforest.net%2Fuser%2Fthemewaves%3Fref%3Dthemewaves|title:button%20text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:34
+#: vc_extend/elements/setsen-ut-callout-options.php:15
+#: vc_extend/elements/setsen-ut-callout-options.php:26
+#@ apeco
+msgid "Insert button link URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:38
+#@ apeco
+msgid "Margin"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:41
+#@ apeco
+msgid "top,right,bottom,left (0,10,0,0 etc)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-button-options.php:49
+#@ apeco
+msgid "Button"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:6
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:50
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:156
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:25
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:5
+#@ apeco
+msgid "Text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:8
+#@ apeco
+msgid "Apeco is influenced by so many best sellers & well designed items on Themeforest"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:13
+#@ apeco
+msgid "Border Button"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:19
+#@ apeco
+msgid "Border Button Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:24
+#@ apeco
+msgid "Flat Button"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:30
+#@ apeco
+msgid "Flat Button Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-callout-options.php:39
+#@ apeco
+msgid "Callout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:7
+#@ apeco
+msgid "Photoshop"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:12
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:13
+#: vc_extend/elements/setsen-ut-map-options.php:172
+#@ apeco
+msgid "Content"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:14
+#@ apeco
+msgid "Phasellus lectus euismod. Id mauris, amet vel, sollicitudin adipiscing. Sociosqu sem, imperdiet euismod eleifend."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:21
+#@ apeco
+msgid "Percent"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:34
+#@ apeco
+msgid "Bar Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:40
+#: vc_extend/init.php:214
+#@ apeco
+msgid "Icon library"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:43
+#: vc_extend/init.php:218
+#@ apeco
+msgid "Font Awesome"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:44
+#: vc_extend/init.php:219
+#@ apeco
+msgid "Open Iconic"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:45
+#: vc_extend/init.php:220
+#@ apeco
+msgid "Typicons"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:46
+#: vc_extend/init.php:221
+#@ apeco
+msgid "Entypo"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:47
+#: vc_extend/init.php:222
+#@ apeco
+msgid "Linecons"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:48
+#: vc_extend/init.php:223
+#@ apeco
+msgid "Pixel"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:49
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:11
+#: vc_extend/elements/setsen-ut-team-item-options.php:18
+#: vc_extend/init.php:224
+#: vc_extend/ion-font-icons.php:257
+#@ apeco
+msgid "Image"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:54
+#@ apeco
+msgid "Select icon library."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:58
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:73
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:88
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:103
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:117
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:132
+#: vc_extend/init.php:231
+#: vc_extend/init.php:246
+#: vc_extend/init.php:260
+#: vc_extend/init.php:274
+#: vc_extend/init.php:288
+#: vc_extend/init.php:302
+#: vc_extend/init.php:316
+#@ apeco
+msgid "Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:69
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:84
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:99
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:128
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:143
+#@ apeco
+msgid "Select icon from library."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:147
+#: vc_extend/elements/setsen-ut-partner-item-options.php:18
+#: vc_extend/init.php:330
+#@ apeco
+msgid "Thumbnail Image"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:157
+#@ apeco
+msgid "B+"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-item-options.php:167
+#@ apeco
+msgid "Circle Chart Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:6
+#: vc_extend/elements/setsen-ut-portfolio-options.php:15
+#: vc_extend/elements/setsen-ut-tabs-options.php:6
+#: vc_extend/elements/setsen-ut-team-options.php:6
+#@ apeco
+msgid "Layout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:8
+#@ apeco
+msgid "Circle"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:9
+#@ apeco
+msgid "Square"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:10
+#@ apeco
+msgid "Circle 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:11
+#@ apeco
+msgid "Square 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:18
+#: vc_extend/elements/setsen-ut-iconbox-options.php:14
+#: vc_extend/elements/setsen-ut-milestones-options.php:6
+#: vc_extend/elements/setsen-ut-social-options.php:6
+#: vc_extend/elements/setsen-ut-team-options.php:12
+#@ apeco
+msgid "Column ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:19
+#: vc_extend/elements/setsen-ut-iconbox-options.php:15
+#: vc_extend/elements/setsen-ut-milestones-options.php:7
+#: vc_extend/elements/setsen-ut-social-options.php:7
+#: vc_extend/elements/setsen-ut-team-options.php:13
+#@ apeco
+msgid "1 column"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:19
+#: vc_extend/elements/setsen-ut-iconbox-options.php:15
+#: vc_extend/elements/setsen-ut-milestones-options.php:7
+#: vc_extend/elements/setsen-ut-social-options.php:7
+#: vc_extend/elements/setsen-ut-team-options.php:13
+#@ apeco
+msgid "2 columns"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:19
+#: vc_extend/elements/setsen-ut-iconbox-options.php:15
+#: vc_extend/elements/setsen-ut-milestones-options.php:7
+#: vc_extend/elements/setsen-ut-social-options.php:7
+#: vc_extend/elements/setsen-ut-team-options.php:13
+#@ apeco
+msgid "3 columns"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:19
+#: vc_extend/elements/setsen-ut-iconbox-options.php:15
+#: vc_extend/elements/setsen-ut-milestones-options.php:7
+#: vc_extend/elements/setsen-ut-social-options.php:7
+#: vc_extend/elements/setsen-ut-team-options.php:13
+#@ apeco
+msgid "4 columns"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:21
+#: vc_extend/elements/setsen-ut-iconbox-options.php:17
+#@ apeco
+msgid "Select Column."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:29
+#@ apeco
+msgid "Circle Chart"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-chart-circle-options.php:37
+#@ default
+msgid "Phasellus lectus euismod. Id mauris, amet vel, sollicitudin adipiscing. Sociosqu sem, imperdiet euismod eleifend.apeco"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:6
+#@ apeco
+msgid "Icon position"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:9
+#: vc_extend/elements/setsen-ut-divider-options.php:19
+#: vc_extend/elements/setsen-ut-heading-options.php:34
+#: vc_extend/elements/setsen-ut-tabs-options.php:20
+#@ apeco
+msgid "Center"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:10
+#: vc_extend/elements/setsen-ut-divider-options.php:20
+#: vc_extend/elements/setsen-ut-heading-options.php:35
+#: vc_extend/elements/setsen-ut-tabs-options.php:19
+#@ apeco
+msgid "Left"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:11
+#: vc_extend/elements/setsen-ut-divider-options.php:21
+#: vc_extend/elements/setsen-ut-heading-options.php:36
+#: vc_extend/elements/setsen-ut-tabs-options.php:21
+#@ apeco
+msgid "Right"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:16
+#@ apeco
+msgid "Separator alignment"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:31
+#@ apeco
+msgid "Type"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:34
+#: vc_extend/elements/setsen-ut-heading-options.php:10
+#@ apeco
+msgid "Line"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:35
+#@ apeco
+msgid "Dashed"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:36
+#: vc_extend/elements/setsen-ut-heading-options.php:11
+#@ apeco
+msgid "Shape"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:42
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:29
+#: vc_extend/elements/setsen-ut-map-options.php:27
+#@ apeco
+msgid "Height"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:54
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:22
+#@ apeco
+msgid "Width"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:61
+#@ apeco
+msgid "Separator element width in percents."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:67
+#: vc_extend/elements/setsen-ut-list-options.php:13
+#@ apeco
+msgid "Icon Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-divider-options.php:82
+#@ apeco
+msgid "Divider"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:6
+#@ apeco
+msgid "Title Style"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:19
+#@ apeco
+msgid "Waves heading element"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:24
+#@ apeco
+msgid "Sub Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:31
+#: vc_extend/elements/setsen-ut-tabs-options.php:16
+#@ apeco
+msgid "Title Align"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:42
+#@ apeco
+msgid "Title Line color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:52
+#@ apeco
+msgid "Title Size"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-heading-options.php:63
+#@ apeco
+msgid "Heading"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:7
+#@ apeco
+msgid "Immersive Experiences"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:15
+#@ apeco
+msgid "Exactly cultivate one customer service with robust to ideas. Professionally innovate resource customer for state of the art service."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:19
+#@ apeco
+msgid "Read more Link"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:22
+#@ apeco
+msgid "Insert link URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-item-options.php:40
+#@ apeco
+msgid "IconBox Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:6
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:31
+#: vc_extend/elements/setsen-ut-progress-options.php:26
+#: vc_extend/elements/setsen-ut-testimonial-options.php:6
+#@ apeco
+msgid "Layout ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Top Simple Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Top Round Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Top Border Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Top Rombo Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Left Round Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Left Square Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:7
+#@ apeco
+msgid "Left Small Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:10
+#: vc_extend/elements/setsen-ut-milestones-options.php:9
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:34
+#: vc_extend/elements/setsen-ut-progress-options.php:29
+#: vc_extend/elements/setsen-ut-social-options.php:9
+#@ apeco
+msgid "Select Layout."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-iconbox-options.php:26
+#@ apeco
+msgid "IconBox"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:16
+#@ apeco
+msgid "Link Url"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:36
+#@ apeco
+msgid "Speed"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:39
+#@ apeco
+msgid "Note: Pixels per Milesecond"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-image-scroll-options.php:47
+#@ apeco
+msgid "Image Scroll"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-list-options.php:6
+#: vc_extend/elements/setsen-ut-list-options.php:30
+#@ apeco
+msgid "List"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-list-options.php:8
+#: vc_extend/elements/setsen-ut-progress-options.php:8
+#@ apeco
+msgid "Enter values for graph - value, title and color. Divide value sets with linebreak \"Enter\" (Example: 90|Development|#e75956)."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-list-options.php:9
+#@ apeco
+msgid "List Item 1,List Item 2,List Item 3"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:6
+#@ apeco
+msgid "Style Option"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:9
+#@ apeco
+msgid "<a href=\"https://snazzymaps.com/explore\" target=\"_blank\" title=\"Snazzy Maps\">Snazzy Maps</a>. Click the generated Popular Maps or you can create your own and insert it your or others ARRAYS."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:13
+#@ apeco
+msgid "Mouse Wheel ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:19
+#@ apeco
+msgid "Style Name"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:33
+#: vc_extend/elements/setsen-ut-map-options.php:138
+#@ apeco
+msgid "Latitude"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:36
+#: vc_extend/elements/setsen-ut-map-options.php:141
+#@ apeco
+msgid "Latitude. Note: Only Digit (max:90, min:-90)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:40
+#: vc_extend/elements/setsen-ut-map-options.php:145
+#@ apeco
+msgid "Longitude"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:43
+#: vc_extend/elements/setsen-ut-map-options.php:148
+#@ apeco
+msgid "Longitude. Note: Only Digit (max:180, min:-180)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:49
+#@ apeco
+msgid "Zoom"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:55
+#@ apeco
+msgid "Use Contact"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:57
+#: vc_extend/elements/setsen-ut-map-options.php:64
+#: vc_extend/elements/setsen-ut-map-options.php:75
+#: vc_extend/elements/setsen-ut-map-options.php:85
+#: vc_extend/elements/setsen-ut-map-options.php:97
+#@ apeco
+msgid "Map Contact"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:62
+#@ apeco
+msgid "Map Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:73
+#@ apeco
+msgid "Map Description"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:83
+#@ apeco
+msgid "Background Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:94
+#@ apeco
+msgid "Contact Form 7"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:105
+#@ apeco
+msgid "Markers"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:107
+#@ apeco
+msgid "Map Markers"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:110
+#@ apeco
+msgid "Marker 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:116
+#@ apeco
+msgid "Content 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:119
+#@ apeco
+msgid "Marker 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:125
+#@ apeco
+msgid "Content 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:131
+#@ apeco
+msgid "Marker Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:133
+#@ apeco
+msgid "Themewaves is BEST, Cheers!"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:152
+#@ apeco
+msgid "Choose Marker Icon Else Default Icon"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:159
+#@ apeco
+msgid "Icon Width"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:166
+#@ apeco
+msgid "Icon Height"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-map-options.php:183
+#: vc_extend/ion-font-icons.php:555
+#@ apeco
+msgid "Map"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:6
+#@ apeco
+msgid "Icon Background Color?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:13
+#@ apeco
+msgid "Happy customers"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:19
+#: vc_extend/elements/setsen-ut-partner-options.php:15
+#@ apeco
+msgid "Count"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:26
+#@ apeco
+msgid "Milestone Background Color?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-item-options.php:42
+#@ apeco
+msgid "Milestone Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-milestones-options.php:18
+#@ apeco
+msgid "Milestones"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-item-options.php:5
+#@ apeco
+msgid "Partner Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-item-options.php:7
+#: vc_extend/elements/setsen-ut-partner-options.php:33
+#@ apeco
+msgid "Partner Name"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-item-options.php:12
+#@ apeco
+msgid "Partner Link to URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-item-options.php:23
+#@ apeco
+msgid "Partner Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-options.php:6
+#@ apeco
+msgid "Auto Play ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-partner-options.php:25
+#@ apeco
+msgid "Partner"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:7
+#@ apeco
+msgid "Portfolio category"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:17
+#@ apeco
+msgid "Masonry"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:24
+#@ apeco
+msgid "Portfolio height"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:27
+#@ apeco
+msgid "Put only the Number. It will not work on Masonry Layout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:35
+#@ apeco
+msgid "Grid elements per row"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:51
+#@ apeco
+msgid "Filter ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-portfolio-options.php:53
+#@ apeco
+msgid "Multi"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:12
+#@ apeco
+msgid "Select post category."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:34
+#@ apeco
+msgid "Post image height."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-post-carousel-options.php:45
+#@ apeco
+msgid "Post carousel"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:5
+#@ apeco
+msgid "Pricing Table Title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:7
+#@ apeco
+msgid "Beginner"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:12
+#@ apeco
+msgid "Price ?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:14
+#@ apeco
+msgid "18|$|monthly"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:20
+#, php-format
+#@ apeco
+msgid "url:http%3A%2F%2Fthemeforest.net%2Fuser%2Fthemewaves%3Fref%3Dthemewaves|title:start%20now"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:21
+#@ apeco
+msgid "Insert button link URL and button Text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:27
+#: vc_extend/elements/setsen-ut-pricingtable-options.php:6
+#@ apeco
+msgid "<ul><li>Limited Products</li><li>30 Staff Login</li><li>150 File Upload</li><li>No Technical Support</li><li>Easy Control</li><li>Cloud Backus</li></ul>"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:32
+#: vc_extend/elements/setsen-ut-tabs-options.php:10
+#@ apeco
+msgid "Featured"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-item-options.php:38
+#@ apeco
+msgid "Pricing Table Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-pricingtable-options.php:8
+#@ apeco
+msgid "Pricing Table"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:6
+#@ apeco
+msgid "Values"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:9
+#@ apeco
+msgid "90|Development,80|Design,70|Marketing"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:13
+#@ apeco
+msgid "Units"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:16
+#@ apeco
+msgid "Enter measurement units (Example: %, px, points, etc. Note: graph value and units will be appended to graph title)."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:20
+#@ apeco
+msgid "Bar color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:22
+#@ apeco
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:27
+#: vc_extend/elements/setsen-ut-team-options.php:8
+#: vc_extend/elements/setsen-ut-testimonial-options.php:7
+#@ apeco
+msgid "Layout 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:27
+#: vc_extend/elements/setsen-ut-team-options.php:8
+#: vc_extend/elements/setsen-ut-testimonial-options.php:7
+#@ apeco
+msgid "Layout 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:27
+#: vc_extend/elements/setsen-ut-testimonial-options.php:7
+#@ apeco
+msgid "Layout 3"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-progress-options.php:37
+#@ apeco
+msgid "Progress Bar"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-social-item-options.php:5
+#@ apeco
+msgid "Social Url"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-social-item-options.php:12
+#@ apeco
+msgid "Description text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-social-item-options.php:19
+#@ apeco
+msgid "Social Name"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-social-item-options.php:27
+#@ apeco
+msgid "SocialBox Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-social-options.php:18
+#@ apeco
+msgid "SocialBox"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tab-options.php:8
+#@ apeco
+msgid "Enter title of tab."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tab-options.php:18
+#@ apeco
+msgid "Tab ID"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tab-options.php:28
+#@ apeco
+msgid "Tab"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:27
+#@ apeco
+msgid "Auto rotate"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:30
+#@ apeco
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:38
+#@ apeco
+msgid "Tabs"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:44
+#@ apeco
+msgid "Tabbed content"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:47
+#@ apeco
+msgid "Tab 1"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-tabs-options.php:47
+#@ apeco
+msgid "Tab 2"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:5
+#@ apeco
+msgid "Member Name"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:7
+#@ apeco
+msgid "Oliver Streen"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:12
+#@ apeco
+msgid "Member Position"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:14
+#@ apeco
+msgid "Founder & CEO"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:23
+#@ apeco
+msgid "Member content"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:34
+#@ apeco
+msgid "Link URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:40
+#@ apeco
+msgid "Social Links"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:42
+#@ apeco
+msgid "Enter social links. Example:facebook.com/themewaves. NOTE: Divide value sets with linebreak \"Enter\""
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-item-options.php:48
+#@ apeco
+msgid "Team Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-team-options.php:23
+#@ apeco
+msgid "Team"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:7
+#@ apeco
+msgid "Apeco is influenced by a few best sellers and well designed items in Themeforest. We are working on it using our spirit and passion. We hope it’s be so cool."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:11
+#@ apeco
+msgid "Profile Image"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:17
+#@ apeco
+msgid "Name"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:24
+#@ apeco
+msgid "Position"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:26
+#@ apeco
+msgid "@Ulaanbaatar"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-item-options.php:30
+#@ apeco
+msgid "Testimonial Item"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-options.php:9
+#@ apeco
+msgid "Select Layout"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-options.php:17
+#@ apeco
+msgid "Testimonial"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-testimonial-options.php:25
+#@ apeco
+msgid "Apeco is influenced by a few best sellers and well designed items in Themeforest. We are working on it using our spirit and passion. We hope it’s be so cool.[/tw_testimonial_item][tw_testimonial_item]Apeco is influenced by a few best sellers and well designed items in Themeforest. We are working on it using our spirit and passion. We hope it’s be so cool."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-text-options.php:6
+#: vc_extend/elements/setsen-ut-text-options.php:23
+#@ apeco
+msgid "Column"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-text-options.php:8
+#@ apeco
+msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-text-options.php:13
+#@ apeco
+msgid "URL (Link)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-text-options.php:15
+#@ apeco
+msgid "Add link to button (Important: adding link automatically adds button)."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:8
+#: vc_extend/elements/setsen-ut-toggle-options.php:10
+#@ apeco
+msgid "Toggle title"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:16
+#@ apeco
+msgid "Toggle content"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:18
+#@ apeco
+msgid "Toggle content goes here, click edit button to change this text."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:19
+#@ apeco
+msgid "Toggle block content."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:23
+#@ apeco
+msgid "Default state"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:26
+#@ apeco
+msgid "Closed"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:27
+#@ apeco
+msgid "Open"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:29
+#@ apeco
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:33
+#@ apeco
+msgid "Element ID"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:35
+#, php-format
+#@ apeco
+msgid "Enter optionally row ID. Make sure it is unique, and it is valid as w3c specification: %s (Must not have spaces)"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:35
+#@ apeco
+msgid "link"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:51
+#: vc_extend/ion-font-icons.php:715
+#@ apeco
+msgid "Toggle"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-toggle-options.php:55
+#@ apeco
+msgid "Toggle element for Q&A block"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:6
+#@ apeco
+msgid "Choose Post type"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:7
+#@ apeco
+msgid "Embed"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:7
+#@ apeco
+msgid "URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:10
+#: vc_extend/elements/setsen-ut-video-options.php:79
+#@ apeco
+msgid "Background video will works with your Container Video Section. This will display Full Widht Video on Sinlge Container."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:14
+#@ apeco
+msgid "Embeded Code"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:23
+#@ apeco
+msgid "M4V File URL"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:29
+#@ apeco
+msgid "The URL to the .m4v video file."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:35
+#@ apeco
+msgid "Video With"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:42
+#: vc_extend/elements/setsen-ut-video-options.php:55
+#: vc_extend/elements/setsen-ut-video-options.php:149
+#@ apeco
+msgid "integer value in 0-100."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:48
+#@ apeco
+msgid "Video Height"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:59
+#@ apeco
+msgid "Video Thumbnail Image"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:65
+#@ apeco
+msgid "The preivew image."
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:69
+#@ apeco
+msgid "Use as Background?"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:75
+#@ apeco
+msgid "Choose Video Text Direction"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:76
+#@ apeco
+msgid "Vertical"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:76
+#@ apeco
+msgid "Horizontal"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:87
+#@ apeco
+msgid "Video Text First"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:94
+#@ apeco
+msgid "Full Width Video Button First Text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:98
+#@ apeco
+msgid "Video Text Last"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:105
+#@ apeco
+msgid "Full Width Video Button Last Text"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:109
+#@ apeco
+msgid "Mask Pattern Image"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:119
+#@ apeco
+msgid "BG Mask Pattern Size"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:126
+#@ apeco
+msgid "Ex: 2px 2px"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:130
+#@ apeco
+msgid "Mask Color"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:142
+#@ apeco
+msgid "Mask Opacity"
+msgstr ""
+
+#: vc_extend/elements/setsen-ut-video-options.php:157
+#@ apeco
+msgid "Video"
+msgstr ""
+
+#: vc_extend/init.php:141
+#@ apeco
+msgid "Date Desc"
+msgstr ""
+
+#: vc_extend/init.php:142
+#@ apeco
+msgid "Date Asc"
+msgstr ""
+
+#: vc_extend/init.php:143
+#@ apeco
+msgid "Title Desc"
+msgstr ""
+
+#: vc_extend/init.php:144
+#@ apeco
+msgid "Title Asc"
+msgstr ""
+
+#: vc_extend/init.php:145
+#@ apeco
+msgid "Random"
+msgstr ""
+
+#: vc_extend/init.php:149
+#@ apeco
+msgid "No Animation"
+msgstr ""
+
+#: vc_extend/init.php:150
+#@ apeco
+msgid "FadeIn"
+msgstr ""
+
+#: vc_extend/init.php:151
+#@ apeco
+msgid "FadeInUp"
+msgstr ""
+
+#: vc_extend/init.php:152
+#@ apeco
+msgid "FadeInDown"
+msgstr ""
+
+#: vc_extend/init.php:153
+#@ apeco
+msgid "FadeInLeft"
+msgstr ""
+
+#: vc_extend/init.php:154
+#@ apeco
+msgid "FadeInRight"
+msgstr ""
+
+#: vc_extend/init.php:155
+#@ apeco
+msgid "FadeInUpBig"
+msgstr ""
+
+#: vc_extend/init.php:156
+#@ apeco
+msgid "FadeInDownBig"
+msgstr ""
+
+#: vc_extend/init.php:157
+#@ apeco
+msgid "FadeInLeftBig"
+msgstr ""
+
+#: vc_extend/init.php:158
+#@ apeco
+msgid "FadeInRightBig"
+msgstr ""
+
+#: vc_extend/init.php:159
+#@ apeco
+msgid "Another FadeIn"
+msgstr ""
+
+#: vc_extend/init.php:160
+#@ apeco
+msgid "SlideUp"
+msgstr ""
+
+#: vc_extend/init.php:161
+#@ apeco
+msgid "SlideDown"
+msgstr ""
+
+#: vc_extend/init.php:162
+#@ apeco
+msgid "SlideLeft"
+msgstr ""
+
+#: vc_extend/init.php:163
+#@ apeco
+msgid "SlideRight"
+msgstr ""
+
+#: vc_extend/init.php:164
+#@ apeco
+msgid "SlideExpandUp"
+msgstr ""
+
+#: vc_extend/init.php:165
+#@ apeco
+msgid "ExpandUp"
+msgstr ""
+
+#: vc_extend/init.php:166
+#@ apeco
+msgid "ExpandOpen"
+msgstr ""
+
+#: vc_extend/init.php:167
+#@ apeco
+msgid "BigEntrance"
+msgstr ""
+
+#: vc_extend/init.php:168
+#@ apeco
+msgid "Hatch"
+msgstr ""
+
+#: vc_extend/init.php:169
+#@ apeco
+msgid "Bounce"
+msgstr ""
+
+#: vc_extend/init.php:170
+#: vc_extend/init.php:182
+#@ apeco
+msgid "Pulse"
+msgstr ""
+
+#: vc_extend/init.php:171
+#@ apeco
+msgid "Floating"
+msgstr ""
+
+#: vc_extend/init.php:172
+#@ apeco
+msgid "Tossing"
+msgstr ""
+
+#: vc_extend/init.php:173
+#@ apeco
+msgid "PullUp"
+msgstr ""
+
+#: vc_extend/init.php:174
+#@ apeco
+msgid "PullDown"
+msgstr ""
+
+#: vc_extend/init.php:175
+#@ apeco
+msgid "StretchLeft"
+msgstr ""
+
+#: vc_extend/init.php:176
+#@ apeco
+msgid "StretchRight"
+msgstr ""
+
+#: vc_extend/init.php:177
+#: vc_extend/ion-font-icons.php:236
+#@ apeco
+msgid "Flash"
+msgstr ""
+
+#: vc_extend/init.php:178
+#@ apeco
+msgid "Shake"
+msgstr ""
+
+#: vc_extend/init.php:179
+#@ apeco
+msgid "Tada"
+msgstr ""
+
+#: vc_extend/init.php:180
+#@ apeco
+msgid "Swing"
+msgstr ""
+
+#: vc_extend/init.php:181
+#@ apeco
+msgid "Wobble"
+msgstr ""
+
+#: vc_extend/init.php:183
+#@ apeco
+msgid "Flip"
+msgstr ""
+
+#: vc_extend/init.php:184
+#@ apeco
+msgid "FlipInX"
+msgstr ""
+
+#: vc_extend/init.php:185
+#@ apeco
+msgid "FlipInY"
+msgstr ""
+
+#: vc_extend/init.php:186
+#@ apeco
+msgid "BounceIn"
+msgstr ""
+
+#: vc_extend/init.php:187
+#@ apeco
+msgid "BounceInDown"
+msgstr ""
+
+#: vc_extend/init.php:188
+#@ apeco
+msgid "BounceInUp"
+msgstr ""
+
+#: vc_extend/init.php:189
+#@ apeco
+msgid "BounceInLeft"
+msgstr ""
+
+#: vc_extend/init.php:190
+#@ apeco
+msgid "BounceInRight"
+msgstr ""
+
+#: vc_extend/init.php:191
+#@ apeco
+msgid "RotateIn"
+msgstr ""
+
+#: vc_extend/init.php:192
+#@ apeco
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: vc_extend/init.php:193
+#@ apeco
+msgid "RotateInDownRight"
+msgstr ""
+
+#: vc_extend/init.php:194
+#@ apeco
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: vc_extend/init.php:195
+#@ apeco
+msgid "RotateInUpRight"
+msgstr ""
+
+#: vc_extend/init.php:196
+#@ apeco
+msgid "LightSpeedIn"
+msgstr ""
+
+#: vc_extend/init.php:197
+#@ apeco
+msgid "RollIn"
+msgstr ""
+
+#: vc_extend/init.php:200
+#@ apeco
+msgid "Blank"
+msgstr ""
+
+#: vc_extend/init.php:200
+#@ apeco
+msgid "Self"
+msgstr ""
+
+#: vc_extend/init.php:217
+#@ apeco
+msgid "Ion Icons"
+msgstr ""
+
+#: vc_extend/init.php:342
+#@ apeco
+msgid "Font Color"
+msgstr ""
+
+#: vc_extend/init.php:351
+#@ apeco
+msgid "Icon Background Color"
+msgstr ""
+
+#: vc_extend/init.php:363
+#@ apeco
+msgid "CSS box"
+msgstr ""
+
+#: vc_extend/init.php:365
+#@ apeco
+msgid "Design Options"
+msgstr ""
+
+#: vc_extend/init.php:370
+#@ apeco
+msgid "Custom Class"
+msgstr ""
+
+#: vc_extend/init.php:373
+#: vc_extend/init.php:380
+#: vc_extend/init.php:389
+#: vc_extend/init.php:396
+#@ apeco
+msgid "Theme Options"
+msgstr ""
+
+#: vc_extend/init.php:377
+#@ apeco
+msgid "Animation"
+msgstr ""
+
+#: vc_extend/init.php:385
+#@ apeco
+msgid "Animation Delay"
+msgstr ""
+
+#: vc_extend/init.php:388
+#@ apeco
+msgid "Example:300"
+msgstr ""
+
+#: vc_extend/init.php:393
+#@ apeco
+msgid "Element Dark ?"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:7
+#@ apeco
+msgid "Alert"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:8
+#@ apeco
+msgid "Alert circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:9
+#@ apeco
+msgid "Android add"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:10
+#@ apeco
+msgid "Android add circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:11
+#@ apeco
+msgid "Android alarm clock"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:12
+#@ apeco
+msgid "Android alert"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:13
+#@ apeco
+msgid "Android apps"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:14
+#@ apeco
+msgid "Android archive"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:15
+#@ apeco
+msgid "Android arrow back"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:16
+#@ apeco
+msgid "Android arrow down"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:17
+#@ apeco
+msgid "Android arrow dropdown"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:18
+#@ apeco
+msgid "Android arrow dropdown circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:19
+#@ apeco
+msgid "Android arrow dropleft"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:20
+#@ apeco
+msgid "Android arrow dropleft circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:21
+#@ apeco
+msgid "Android arrow dropright"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:22
+#@ apeco
+msgid "Android arrow dropright circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:23
+#@ apeco
+msgid "Android arrow dropup"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:24
+#@ apeco
+msgid "Android arrow dropup circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:25
+#@ apeco
+msgid "Android arrow forward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:26
+#@ apeco
+msgid "Android arrow up"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:27
+#@ apeco
+msgid "Android attach"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:28
+#@ apeco
+msgid "Android bar"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:29
+#@ apeco
+msgid "Android bicycle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:30
+#@ apeco
+msgid "Android boat"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:31
+#@ apeco
+msgid "Android bookmark"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:32
+#@ apeco
+msgid "Android bulb"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:33
+#@ apeco
+msgid "Android bus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:34
+#@ apeco
+msgid "Android calendar"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:35
+#@ apeco
+msgid "Android call"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:36
+#@ apeco
+msgid "Android camera"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:37
+#@ apeco
+msgid "Android cancel"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:38
+#@ apeco
+msgid "Android car"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:39
+#@ apeco
+msgid "Android cart"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:40
+#@ apeco
+msgid "Android chat"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:41
+#@ apeco
+msgid "Android checkbox"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:42
+#@ apeco
+msgid "Android checkbox blank"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:43
+#@ apeco
+msgid "Android checkbox outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:44
+#@ apeco
+msgid "Android checkbox outline blank"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:45
+#@ apeco
+msgid "Android checkmark circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:46
+#@ apeco
+msgid "Android clipboard"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:47
+#@ apeco
+msgid "Android close"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:48
+#@ apeco
+msgid "Android cloud"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:49
+#@ apeco
+msgid "Android cloud circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:50
+#@ apeco
+msgid "Android cloud done"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:51
+#@ apeco
+msgid "Android cloud outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:52
+#@ apeco
+msgid "Android color palette"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:53
+#@ apeco
+msgid "Android compass"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:54
+#@ apeco
+msgid "Android contact"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:55
+#@ apeco
+msgid "Android contacts"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:56
+#@ apeco
+msgid "Android contract"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:57
+#@ apeco
+msgid "Android create"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:58
+#@ apeco
+msgid "Android delete"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:59
+#@ apeco
+msgid "Android desktop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:60
+#@ apeco
+msgid "Android document"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:61
+#@ apeco
+msgid "Android done"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:62
+#@ apeco
+msgid "Android done all"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:63
+#@ apeco
+msgid "Android download"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:64
+#@ apeco
+msgid "Android drafts"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:65
+#@ apeco
+msgid "Android exit"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:66
+#@ apeco
+msgid "Android expand"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:67
+#@ apeco
+msgid "Android favorite"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:68
+#@ apeco
+msgid "Android favorite outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:69
+#@ apeco
+msgid "Android film"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:70
+#@ apeco
+msgid "Android folder"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:71
+#@ apeco
+msgid "Android folder open"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:72
+#@ apeco
+msgid "Android funnel"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:73
+#@ apeco
+msgid "Android globe"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:74
+#@ apeco
+msgid "Android hand"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:75
+#@ apeco
+msgid "Android hangout"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:76
+#@ apeco
+msgid "Android happy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:77
+#@ apeco
+msgid "Android home"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:78
+#@ apeco
+msgid "Android image"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:79
+#@ apeco
+msgid "Android laptop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:80
+#@ apeco
+msgid "Android list"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:81
+#@ apeco
+msgid "Android locate"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:82
+#@ apeco
+msgid "Android lock"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:83
+#@ apeco
+msgid "Android mail"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:84
+#@ apeco
+msgid "Android map"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:85
+#@ apeco
+msgid "Android menu"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:86
+#@ apeco
+msgid "Android microphone"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:87
+#@ apeco
+msgid "Android microphone off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:88
+#@ apeco
+msgid "Android more horizontal"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:89
+#@ apeco
+msgid "Android more vertical"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:90
+#@ apeco
+msgid "Android navigate"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:91
+#@ apeco
+msgid "Android notifications"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:92
+#@ apeco
+msgid "Android notifications none"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:93
+#@ apeco
+msgid "Android notifications off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:94
+#@ apeco
+msgid "Android open"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:95
+#@ apeco
+msgid "Android options"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:96
+#@ apeco
+msgid "Android people"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:97
+#@ apeco
+msgid "Android person"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:98
+#@ apeco
+msgid "Android person add"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:99
+#@ apeco
+msgid "Android phone landscape"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:100
+#@ apeco
+msgid "Android phone portrait"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:101
+#@ apeco
+msgid "Android pin"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:102
+#@ apeco
+msgid "Android plane"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:103
+#@ apeco
+msgid "Android playstore"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:104
+#@ apeco
+msgid "Android print"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:105
+#@ apeco
+msgid "Android radio button off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:106
+#@ apeco
+msgid "Android radio button on"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:107
+#@ apeco
+msgid "Android refresh"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:108
+#@ apeco
+msgid "Android remove"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:109
+#@ apeco
+msgid "Android remove circle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:110
+#@ apeco
+msgid "Android restaurant"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:111
+#@ apeco
+msgid "Android sad"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:112
+#@ apeco
+msgid "Android search"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:113
+#@ apeco
+msgid "Android send"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:114
+#@ apeco
+msgid "Android settings"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:115
+#@ apeco
+msgid "Android share"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:116
+#@ apeco
+msgid "Android share alt"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:117
+#@ apeco
+msgid "Android star"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:118
+#@ apeco
+msgid "Android star half"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:119
+#@ apeco
+msgid "Android star outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:120
+#@ apeco
+msgid "Android stopwatch"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:121
+#@ apeco
+msgid "Android subway"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:122
+#@ apeco
+msgid "Android sunny"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:123
+#@ apeco
+msgid "Android sync"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:124
+#@ apeco
+msgid "Android textsms"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:125
+#@ apeco
+msgid "Android time"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:126
+#@ apeco
+msgid "Android train"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:127
+#@ apeco
+msgid "Android unlock"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:128
+#@ apeco
+msgid "Android upload"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:129
+#@ apeco
+msgid "Android volume down"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:130
+#@ apeco
+msgid "Android volume mute"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:131
+#@ apeco
+msgid "Android volume off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:132
+#@ apeco
+msgid "Android volume up"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:133
+#@ apeco
+msgid "Android walk"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:134
+#@ apeco
+msgid "Android warning"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:135
+#@ apeco
+msgid "Android watch"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:136
+#@ apeco
+msgid "Android wifi"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:137
+#@ apeco
+msgid "Aperture"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:138
+#@ apeco
+msgid "Archive"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:139
+#@ apeco
+msgid "Arrow down a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:140
+#@ apeco
+msgid "Arrow down b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:141
+#@ apeco
+msgid "Arrow down c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:142
+#@ apeco
+msgid "Arrow expand"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:143
+#@ apeco
+msgid "Arrow graph down left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:144
+#@ apeco
+msgid "Arrow graph down right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:145
+#@ apeco
+msgid "Arrow graph up left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:146
+#@ apeco
+msgid "Arrow graph up right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:147
+#@ apeco
+msgid "Arrow left a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:148
+#@ apeco
+msgid "Arrow left b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:149
+#@ apeco
+msgid "Arrow left c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:150
+#@ apeco
+msgid "Arrow move"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:151
+#@ apeco
+msgid "Arrow resize"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:152
+#@ apeco
+msgid "Arrow return left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:153
+#@ apeco
+msgid "Arrow return right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:154
+#@ apeco
+msgid "Arrow right a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:155
+#@ apeco
+msgid "Arrow right b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:156
+#@ apeco
+msgid "Arrow right c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:157
+#@ apeco
+msgid "Arrow shrink"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:158
+#@ apeco
+msgid "Arrow swap"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:159
+#@ apeco
+msgid "Arrow up a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:160
+#@ apeco
+msgid "Arrow up b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:161
+#@ apeco
+msgid "Arrow up c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:162
+#@ apeco
+msgid "Asterisk"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:163
+#@ apeco
+msgid "At"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:164
+#@ apeco
+msgid "Backspace"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:165
+#@ apeco
+msgid "Backspace outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:166
+#@ apeco
+msgid "Bag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:167
+#@ apeco
+msgid "Battery charging"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:168
+#@ apeco
+msgid "Battery empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:169
+#@ apeco
+msgid "Battery full"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:170
+#@ apeco
+msgid "Battery half"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:171
+#@ apeco
+msgid "Battery low"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:172
+#@ apeco
+msgid "Beaker"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:173
+#@ apeco
+msgid "Beer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:174
+#@ apeco
+msgid "Bluetooth"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:175
+#@ apeco
+msgid "Bonfire"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:176
+#@ apeco
+msgid "Bookmark"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:177
+#@ apeco
+msgid "Bowtie"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:178
+#@ apeco
+msgid "Briefcase"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:179
+#@ apeco
+msgid "Bug"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:180
+#@ apeco
+msgid "Calculator"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:181
+#@ apeco
+msgid "Calendar"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:182
+#@ apeco
+msgid "Camera"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:183
+#@ apeco
+msgid "Card"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:184
+#@ apeco
+msgid "Cash"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:185
+#@ apeco
+msgid "Chatbox"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:186
+#@ apeco
+msgid "Chatbox working"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:187
+#@ apeco
+msgid "Chatboxes"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:188
+#@ apeco
+msgid "Chatbubble"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:189
+#@ apeco
+msgid "Chatbubble working"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:190
+#@ apeco
+msgid "Chatbubbles"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:191
+#@ apeco
+msgid "Checkmark"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:192
+#@ apeco
+msgid "Checkmark circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:193
+#@ apeco
+msgid "Checkmark round"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:194
+#@ apeco
+msgid "Chevron down"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:195
+#@ apeco
+msgid "Chevron left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:196
+#@ apeco
+msgid "Chevron right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:197
+#@ apeco
+msgid "Chevron up"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:198
+#@ apeco
+msgid "Clipboard"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:199
+#@ apeco
+msgid "Clock"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:200
+#@ apeco
+msgid "Close"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:201
+#@ apeco
+msgid "Close circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:202
+#@ apeco
+msgid "Close round"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:203
+#@ apeco
+msgid "Closed captioning"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:204
+#@ apeco
+msgid "Cloud"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:205
+#@ apeco
+msgid "Code"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:206
+#@ apeco
+msgid "Code download"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:207
+#@ apeco
+msgid "Code working"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:208
+#@ apeco
+msgid "Coffee"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:209
+#@ apeco
+msgid "Compass"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:210
+#@ apeco
+msgid "Compose"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:211
+#@ apeco
+msgid "Connection bars"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:212
+#@ apeco
+msgid "Contrast"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:213
+#@ apeco
+msgid "Crop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:214
+#@ apeco
+msgid "Cube"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:215
+#@ apeco
+msgid "Disc"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:216
+#@ apeco
+msgid "Document"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:217
+#@ apeco
+msgid "Document text"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:218
+#@ apeco
+msgid "Drag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:219
+#@ apeco
+msgid "Earth"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:220
+#@ apeco
+msgid "Easel"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:221
+#@ apeco
+msgid "Edit"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:222
+#@ apeco
+msgid "Egg"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:223
+#@ apeco
+msgid "Eject"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:224
+#@ apeco
+msgid "Email"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:225
+#@ apeco
+msgid "Email unread"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:226
+#@ apeco
+msgid "Erlenmeyer flask"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:227
+#@ apeco
+msgid "Erlenmeyer flask bubbles"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:228
+#@ apeco
+msgid "Eye"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:229
+#@ apeco
+msgid "Eye disabled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:230
+#@ apeco
+msgid "Female"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:231
+#@ apeco
+msgid "Filing"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:232
+#@ apeco
+msgid "Film marker"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:233
+#@ apeco
+msgid "Fireball"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:234
+#@ apeco
+msgid "Flag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:235
+#@ apeco
+msgid "Flame"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:237
+#@ apeco
+msgid "Flash off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:238
+#@ apeco
+msgid "Folder"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:239
+#@ apeco
+msgid "Fork"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:240
+#@ apeco
+msgid "Fork repo"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:241
+#@ apeco
+msgid "Forward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:242
+#@ apeco
+msgid "Funnel"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:243
+#@ apeco
+msgid "Gear a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:244
+#@ apeco
+msgid "Gear b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:246
+#@ apeco
+msgid "Hammer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:247
+#@ apeco
+msgid "Happy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:248
+#@ apeco
+msgid "Happy outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:249
+#@ apeco
+msgid "Headphone"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:250
+#@ apeco
+msgid "Heart"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:251
+#@ apeco
+msgid "Heart broken"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:252
+#@ apeco
+msgid "Help"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:253
+#@ apeco
+msgid "Help buoy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:254
+#@ apeco
+msgid "Help circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:255
+#@ apeco
+msgid "Home"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:256
+#@ apeco
+msgid "Icecream"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:258
+#@ apeco
+msgid "Images"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:259
+#@ apeco
+msgid "Information"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:260
+#@ apeco
+msgid "Information circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:261
+#@ apeco
+msgid "Ionic"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:262
+#@ apeco
+msgid "Ios alarm"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:263
+#@ apeco
+msgid "Ios alarm outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:264
+#@ apeco
+msgid "Ios albums"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:265
+#@ apeco
+msgid "Ios albums outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:266
+#@ apeco
+msgid "Ios americanfootball"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:267
+#@ apeco
+msgid "Ios americanfootball outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:268
+#@ apeco
+msgid "Ios analytics"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:269
+#@ apeco
+msgid "Ios analytics outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:270
+#@ apeco
+msgid "Ios arrow back"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:271
+#@ apeco
+msgid "Ios arrow down"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:272
+#@ apeco
+msgid "Ios arrow forward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:273
+#@ apeco
+msgid "Ios arrow left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:274
+#@ apeco
+msgid "Ios arrow right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:275
+#@ apeco
+msgid "Ios arrow thin down"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:276
+#@ apeco
+msgid "Ios arrow thin left"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:277
+#@ apeco
+msgid "Ios arrow thin right"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:278
+#@ apeco
+msgid "Ios arrow thin up"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:279
+#@ apeco
+msgid "Ios arrow up"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:280
+#@ apeco
+msgid "Ios at"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:281
+#@ apeco
+msgid "Ios at outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:282
+#@ apeco
+msgid "Ios barcode"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:283
+#@ apeco
+msgid "Ios barcode outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:284
+#@ apeco
+msgid "Ios baseball"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:285
+#@ apeco
+msgid "Ios baseball outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:286
+#@ apeco
+msgid "Ios basketball"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:287
+#@ apeco
+msgid "Ios basketball outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:288
+#@ apeco
+msgid "Ios bell"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:289
+#@ apeco
+msgid "Ios bell outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:290
+#@ apeco
+msgid "Ios body"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:291
+#@ apeco
+msgid "Ios body outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:292
+#@ apeco
+msgid "Ios bolt"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:293
+#@ apeco
+msgid "Ios bolt outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:294
+#@ apeco
+msgid "Ios book"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:295
+#@ apeco
+msgid "Ios book outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:296
+#@ apeco
+msgid "Ios bookmarks"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:297
+#@ apeco
+msgid "Ios bookmarks outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:298
+#@ apeco
+msgid "Ios box"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:299
+#@ apeco
+msgid "Ios box outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:300
+#@ apeco
+msgid "Ios briefcase"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:301
+#@ apeco
+msgid "Ios briefcase outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:302
+#@ apeco
+msgid "Ios browsers"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:303
+#@ apeco
+msgid "Ios browsers outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:304
+#@ apeco
+msgid "Ios calculator"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:305
+#@ apeco
+msgid "Ios calculator outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:306
+#@ apeco
+msgid "Ios calendar"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:307
+#@ apeco
+msgid "Ios calendar outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:308
+#@ apeco
+msgid "Ios camera"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:309
+#@ apeco
+msgid "Ios camera outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:310
+#@ apeco
+msgid "Ios cart"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:311
+#@ apeco
+msgid "Ios cart outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:312
+#@ apeco
+msgid "Ios chatboxes"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:313
+#@ apeco
+msgid "Ios chatboxes outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:314
+#@ apeco
+msgid "Ios chatbubble"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:315
+#@ apeco
+msgid "Ios chatbubble outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:316
+#@ apeco
+msgid "Ios checkmark"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:317
+#@ apeco
+msgid "Ios checkmark empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:318
+#@ apeco
+msgid "Ios checkmark outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:319
+#@ apeco
+msgid "Ios circle filled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:320
+#@ apeco
+msgid "Ios circle outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:321
+#@ apeco
+msgid "Ios clock"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:322
+#@ apeco
+msgid "Ios clock outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:323
+#@ apeco
+msgid "Ios close"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:324
+#@ apeco
+msgid "Ios close empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:325
+#@ apeco
+msgid "Ios close outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:326
+#@ apeco
+msgid "Ios cloud"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:327
+#@ apeco
+msgid "Ios cloud download"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:328
+#@ apeco
+msgid "Ios cloud download outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:329
+#@ apeco
+msgid "Ios cloud outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:330
+#@ apeco
+msgid "Ios cloud upload"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:331
+#@ apeco
+msgid "Ios cloud upload outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:332
+#@ apeco
+msgid "Ios cloudy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:333
+#@ apeco
+msgid "Ios cloudy night"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:334
+#@ apeco
+msgid "Ios cloudy night outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:335
+#@ apeco
+msgid "Ios cloudy outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:336
+#@ apeco
+msgid "Ios cog"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:337
+#@ apeco
+msgid "Ios cog outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:338
+#@ apeco
+msgid "Ios color filter"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:339
+#@ apeco
+msgid "Ios color filter outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:340
+#@ apeco
+msgid "Ios color wand"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:341
+#@ apeco
+msgid "Ios color wand outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:342
+#@ apeco
+msgid "Ios compose"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:343
+#@ apeco
+msgid "Ios compose outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:344
+#@ apeco
+msgid "Ios contact"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:345
+#@ apeco
+msgid "Ios contact outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:346
+#@ apeco
+msgid "Ios copy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:347
+#@ apeco
+msgid "Ios copy outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:348
+#@ apeco
+msgid "Ios crop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:349
+#@ apeco
+msgid "Ios crop strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:350
+#@ apeco
+msgid "Ios download"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:351
+#@ apeco
+msgid "Ios download outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:352
+#@ apeco
+msgid "Ios drag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:353
+#@ apeco
+msgid "Ios email"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:354
+#@ apeco
+msgid "Ios email outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:355
+#@ apeco
+msgid "Ios eye"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:356
+#@ apeco
+msgid "Ios eye outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:357
+#@ apeco
+msgid "Ios fastforward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:358
+#@ apeco
+msgid "Ios fastforward outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:359
+#@ apeco
+msgid "Ios filing"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:360
+#@ apeco
+msgid "Ios filing outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:361
+#@ apeco
+msgid "Ios film"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:362
+#@ apeco
+msgid "Ios film outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:363
+#@ apeco
+msgid "Ios flag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:364
+#@ apeco
+msgid "Ios flag outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:365
+#@ apeco
+msgid "Ios flame"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:366
+#@ apeco
+msgid "Ios flame outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:367
+#@ apeco
+msgid "Ios flask"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:368
+#@ apeco
+msgid "Ios flask outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:369
+#@ apeco
+msgid "Ios flower"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:370
+#@ apeco
+msgid "Ios flower outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:371
+#@ apeco
+msgid "Ios folder"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:372
+#@ apeco
+msgid "Ios folder outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:373
+#@ apeco
+msgid "Ios football"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:374
+#@ apeco
+msgid "Ios football outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:375
+#@ apeco
+msgid "Ios game controller a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:376
+#@ apeco
+msgid "Ios game controller a outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:377
+#@ apeco
+msgid "Ios game controller b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:378
+#@ apeco
+msgid "Ios game controller b outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:379
+#@ apeco
+msgid "Ios gear"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:380
+#@ apeco
+msgid "Ios gear outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:381
+#@ apeco
+msgid "Ios glasses"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:382
+#@ apeco
+msgid "Ios glasses outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:383
+#@ apeco
+msgid "Ios grid view"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:384
+#@ apeco
+msgid "Ios grid view outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:385
+#@ apeco
+msgid "Ios heart"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:386
+#@ apeco
+msgid "Ios heart outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:387
+#@ apeco
+msgid "Ios help"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:388
+#@ apeco
+msgid "Ios help empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:389
+#@ apeco
+msgid "Ios help outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:390
+#@ apeco
+msgid "Ios home"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:391
+#@ apeco
+msgid "Ios home outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:392
+#@ apeco
+msgid "Ios infinite"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:393
+#@ apeco
+msgid "Ios infinite outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:394
+#@ apeco
+msgid "Ios information"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:395
+#@ apeco
+msgid "Ios information empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:396
+#@ apeco
+msgid "Ios information outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:397
+#@ apeco
+msgid "Ios ionic outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:398
+#@ apeco
+msgid "Ios keypad"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:399
+#@ apeco
+msgid "Ios keypad outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:400
+#@ apeco
+msgid "Ios lightbulb"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:401
+#@ apeco
+msgid "Ios lightbulb outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:402
+#@ apeco
+msgid "Ios list"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:403
+#@ apeco
+msgid "Ios list outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:404
+#@ apeco
+msgid "Ios location"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:405
+#@ apeco
+msgid "Ios location outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:406
+#@ apeco
+msgid "Ios locked"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:407
+#@ apeco
+msgid "Ios locked outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:408
+#@ apeco
+msgid "Ios loop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:409
+#@ apeco
+msgid "Ios loop strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:410
+#@ apeco
+msgid "Ios medical"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:411
+#@ apeco
+msgid "Ios medical outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:412
+#@ apeco
+msgid "Ios medkit"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:413
+#@ apeco
+msgid "Ios medkit outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:414
+#@ apeco
+msgid "Ios mic"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:415
+#@ apeco
+msgid "Ios mic off"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:416
+#@ apeco
+msgid "Ios mic outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:417
+#@ apeco
+msgid "Ios minus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:418
+#@ apeco
+msgid "Ios minus empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:419
+#@ apeco
+msgid "Ios minus outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:420
+#@ apeco
+msgid "Ios monitor"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:421
+#@ apeco
+msgid "Ios monitor outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:422
+#@ apeco
+msgid "Ios moon"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:423
+#@ apeco
+msgid "Ios moon outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:424
+#@ apeco
+msgid "Ios more"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:425
+#@ apeco
+msgid "Ios more outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:426
+#@ apeco
+msgid "Ios musical note"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:427
+#@ apeco
+msgid "Ios musical notes"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:428
+#@ apeco
+msgid "Ios navigate"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:429
+#@ apeco
+msgid "Ios navigate outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:430
+#@ apeco
+msgid "Ios nutrition"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:431
+#@ apeco
+msgid "Ios nutrition outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:432
+#@ apeco
+msgid "Ios paper"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:433
+#@ apeco
+msgid "Ios paper outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:434
+#@ apeco
+msgid "Ios paperplane"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:435
+#@ apeco
+msgid "Ios paperplane outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:436
+#@ apeco
+msgid "Ios partlysunny"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:437
+#@ apeco
+msgid "Ios partlysunny outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:438
+#@ apeco
+msgid "Ios pause"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:439
+#@ apeco
+msgid "Ios pause outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:440
+#@ apeco
+msgid "Ios paw"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:441
+#@ apeco
+msgid "Ios paw outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:442
+#@ apeco
+msgid "Ios people"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:443
+#@ apeco
+msgid "Ios people outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:444
+#@ apeco
+msgid "Ios person"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:445
+#@ apeco
+msgid "Ios person outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:446
+#@ apeco
+msgid "Ios personadd"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:447
+#@ apeco
+msgid "Ios personadd outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:448
+#@ apeco
+msgid "Ios photos"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:449
+#@ apeco
+msgid "Ios photos outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:450
+#@ apeco
+msgid "Ios pie"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:451
+#@ apeco
+msgid "Ios pie outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:452
+#@ apeco
+msgid "Ios pint"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:453
+#@ apeco
+msgid "Ios pint outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:454
+#@ apeco
+msgid "Ios play"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:455
+#@ apeco
+msgid "Ios play outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:456
+#@ apeco
+msgid "Ios plus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:457
+#@ apeco
+msgid "Ios plus empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:458
+#@ apeco
+msgid "Ios plus outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:459
+#@ apeco
+msgid "Ios pricetag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:460
+#@ apeco
+msgid "Ios pricetag outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:461
+#@ apeco
+msgid "Ios pricetags"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:462
+#@ apeco
+msgid "Ios pricetags outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:463
+#@ apeco
+msgid "Ios printer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:464
+#@ apeco
+msgid "Ios printer outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:465
+#@ apeco
+msgid "Ios pulse"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:466
+#@ apeco
+msgid "Ios pulse strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:467
+#@ apeco
+msgid "Ios rainy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:468
+#@ apeco
+msgid "Ios rainy outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:469
+#@ apeco
+msgid "Ios recording"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:470
+#@ apeco
+msgid "Ios recording outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:471
+#@ apeco
+msgid "Ios redo"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:472
+#@ apeco
+msgid "Ios redo outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:473
+#@ apeco
+msgid "Ios refresh"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:474
+#@ apeco
+msgid "Ios refresh empty"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:475
+#@ apeco
+msgid "Ios refresh outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:476
+#@ apeco
+msgid "Ios reload"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:477
+#@ apeco
+msgid "Ios reverse camera"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:478
+#@ apeco
+msgid "Ios reverse camera outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:479
+#@ apeco
+msgid "Ios rewind"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:480
+#@ apeco
+msgid "Ios rewind outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:481
+#@ apeco
+msgid "Ios rose"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:482
+#@ apeco
+msgid "Ios rose outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:483
+#@ apeco
+msgid "Ios search"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:484
+#@ apeco
+msgid "Ios search strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:485
+#@ apeco
+msgid "Ios settings"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:486
+#@ apeco
+msgid "Ios settings strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:487
+#@ apeco
+msgid "Ios shuffle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:488
+#@ apeco
+msgid "Ios shuffle strong"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:489
+#@ apeco
+msgid "Ios skipbackward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:490
+#@ apeco
+msgid "Ios skipbackward outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:491
+#@ apeco
+msgid "Ios skipforward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:492
+#@ apeco
+msgid "Ios skipforward outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:493
+#@ apeco
+msgid "Ios snowy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:494
+#@ apeco
+msgid "Ios speedometer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:495
+#@ apeco
+msgid "Ios speedometer outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:496
+#@ apeco
+msgid "Ios star"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:497
+#@ apeco
+msgid "Ios star half"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:498
+#@ apeco
+msgid "Ios star outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:499
+#@ apeco
+msgid "Ios stopwatch"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:500
+#@ apeco
+msgid "Ios stopwatch outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:501
+#@ apeco
+msgid "Ios sunny"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:502
+#@ apeco
+msgid "Ios sunny outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:503
+#@ apeco
+msgid "Ios telephone"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:504
+#@ apeco
+msgid "Ios telephone outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:505
+#@ apeco
+msgid "Ios tennisball"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:506
+#@ apeco
+msgid "Ios tennisball outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:507
+#@ apeco
+msgid "Ios thunderstorm"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:508
+#@ apeco
+msgid "Ios thunderstorm outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:509
+#@ apeco
+msgid "Ios time"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:510
+#@ apeco
+msgid "Ios time outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:511
+#@ apeco
+msgid "Ios timer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:512
+#@ apeco
+msgid "Ios timer outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:513
+#@ apeco
+msgid "Ios toggle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:514
+#@ apeco
+msgid "Ios toggle outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:515
+#@ apeco
+msgid "Ios trash"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:516
+#@ apeco
+msgid "Ios trash outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:517
+#@ apeco
+msgid "Ios undo"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:518
+#@ apeco
+msgid "Ios undo outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:519
+#@ apeco
+msgid "Ios unlocked"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:520
+#@ apeco
+msgid "Ios unlocked outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:521
+#@ apeco
+msgid "Ios upload"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:522
+#@ apeco
+msgid "Ios upload outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:523
+#@ apeco
+msgid "Ios videocam"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:524
+#@ apeco
+msgid "Ios videocam outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:525
+#@ apeco
+msgid "Ios volume high"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:526
+#@ apeco
+msgid "Ios volume low"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:527
+#@ apeco
+msgid "Ios wineglass"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:528
+#@ apeco
+msgid "Ios wineglass outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:529
+#@ apeco
+msgid "Ios world"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:530
+#@ apeco
+msgid "Ios world outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:531
+#@ apeco
+msgid "Ipad"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:532
+#@ apeco
+msgid "Iphone"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:533
+#@ apeco
+msgid "Ipod"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:534
+#@ apeco
+msgid "Jet"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:535
+#@ apeco
+msgid "Key"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:536
+#@ apeco
+msgid "Knife"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:537
+#@ apeco
+msgid "Laptop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:538
+#@ apeco
+msgid "Leaf"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:539
+#@ apeco
+msgid "Levels"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:540
+#@ apeco
+msgid "Lightbulb"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:541
+#@ apeco
+msgid "Link"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:542
+#@ apeco
+msgid "Load a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:543
+#@ apeco
+msgid "Load b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:544
+#@ apeco
+msgid "Load c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:545
+#@ apeco
+msgid "Load d"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:546
+#@ apeco
+msgid "Location"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:547
+#@ apeco
+msgid "Lock combination"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:548
+#@ apeco
+msgid "Locked"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:549
+#@ apeco
+msgid "Log in"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:550
+#@ apeco
+msgid "Log out"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:551
+#@ apeco
+msgid "Loop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:552
+#@ apeco
+msgid "Magnet"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:553
+#@ apeco
+msgid "Male"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:554
+#@ apeco
+msgid "Man"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:556
+#@ apeco
+msgid "Medkit"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:557
+#@ apeco
+msgid "Merge"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:558
+#@ apeco
+msgid "Mic a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:559
+#@ apeco
+msgid "Mic b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:560
+#@ apeco
+msgid "Mic c"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:561
+#@ apeco
+msgid "Minus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:562
+#@ apeco
+msgid "Minus circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:563
+#@ apeco
+msgid "Minus round"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:564
+#@ apeco
+msgid "Model s"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:565
+#@ apeco
+msgid "Monitor"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:566
+#@ apeco
+msgid "More"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:567
+#@ apeco
+msgid "Mouse"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:568
+#@ apeco
+msgid "Music note"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:569
+#@ apeco
+msgid "Navicon"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:570
+#@ apeco
+msgid "Navicon round"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:571
+#@ apeco
+msgid "Navigate"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:572
+#@ apeco
+msgid "Network"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:573
+#@ apeco
+msgid "No smoking"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:574
+#@ apeco
+msgid "Nuclear"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:575
+#@ apeco
+msgid "Outlet"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:576
+#@ apeco
+msgid "Paintbrush"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:577
+#@ apeco
+msgid "Paintbucket"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:578
+#@ apeco
+msgid "Paper airplane"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:579
+#@ apeco
+msgid "Paperclip"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:580
+#@ apeco
+msgid "Pause"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:581
+#@ apeco
+msgid "Person"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:582
+#@ apeco
+msgid "Person add"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:583
+#@ apeco
+msgid "Person stalker"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:584
+#@ apeco
+msgid "Pie graph"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:585
+#@ apeco
+msgid "Pin"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:586
+#@ apeco
+msgid "Pinpoint"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:587
+#@ apeco
+msgid "Pizza"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:588
+#@ apeco
+msgid "Plane"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:589
+#@ apeco
+msgid "Planet"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:590
+#@ apeco
+msgid "Play"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:591
+#@ apeco
+msgid "Playstation"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:592
+#@ apeco
+msgid "Plus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:593
+#@ apeco
+msgid "Plus circled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:594
+#@ apeco
+msgid "Plus round"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:595
+#@ apeco
+msgid "Podium"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:596
+#@ apeco
+msgid "Pound"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:597
+#@ apeco
+msgid "Power"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:598
+#@ apeco
+msgid "Pricetag"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:599
+#@ apeco
+msgid "Pricetags"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:600
+#@ apeco
+msgid "Printer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:601
+#@ apeco
+msgid "Pull request"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:602
+#@ apeco
+msgid "Qr scanner"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:603
+#@ apeco
+msgid "Quote"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:604
+#@ apeco
+msgid "Radio waves"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:605
+#@ apeco
+msgid "Record"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:606
+#@ apeco
+msgid "Refresh"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:607
+#@ apeco
+msgid "Reply"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:608
+#@ apeco
+msgid "Reply all"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:609
+#@ apeco
+msgid "Ribbon a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:610
+#@ apeco
+msgid "Ribbon b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:611
+#@ apeco
+msgid "Sad"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:612
+#@ apeco
+msgid "Sad outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:613
+#@ apeco
+msgid "Scissors"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:614
+#@ apeco
+msgid "Search"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:615
+#@ apeco
+msgid "Settings"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:616
+#@ apeco
+msgid "Share"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:617
+#@ apeco
+msgid "Shuffle"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:618
+#@ apeco
+msgid "Skip backward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:619
+#@ apeco
+msgid "Skip forward"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:620
+#@ apeco
+msgid "Social android"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:621
+#@ apeco
+msgid "Social android outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:622
+#@ apeco
+msgid "Social angular"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:623
+#@ apeco
+msgid "Social angular outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:624
+#@ apeco
+msgid "Social apple"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:625
+#@ apeco
+msgid "Social apple outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:626
+#@ apeco
+msgid "Social bitcoin"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:627
+#@ apeco
+msgid "Social bitcoin outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:628
+#@ apeco
+msgid "Social buffer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:629
+#@ apeco
+msgid "Social buffer outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:630
+#@ apeco
+msgid "Social chrome"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:631
+#@ apeco
+msgid "Social chrome outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:632
+#@ apeco
+msgid "Social codepen"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:633
+#@ apeco
+msgid "Social codepen outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:634
+#@ apeco
+msgid "Social css3"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:635
+#@ apeco
+msgid "Social css3 outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:636
+#@ apeco
+msgid "Social designernews"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:637
+#@ apeco
+msgid "Social designernews outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:638
+#@ apeco
+msgid "Social dribbble"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:639
+#@ apeco
+msgid "Social dribbble outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:640
+#@ apeco
+msgid "Social dropbox"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:641
+#@ apeco
+msgid "Social dropbox outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:642
+#@ apeco
+msgid "Social euro"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:643
+#@ apeco
+msgid "Social euro outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:644
+#@ apeco
+msgid "Social facebook"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:645
+#@ apeco
+msgid "Social facebook outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:646
+#@ apeco
+msgid "Social foursquare"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:647
+#@ apeco
+msgid "Social foursquare outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:648
+#@ apeco
+msgid "Social freebsd devil"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:649
+#@ apeco
+msgid "Social github"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:650
+#@ apeco
+msgid "Social github outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:651
+#@ apeco
+msgid "Social google"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:652
+#@ apeco
+msgid "Social google outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:653
+#@ apeco
+msgid "Social googleplus"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:654
+#@ apeco
+msgid "Social googleplus outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:655
+#@ apeco
+msgid "Social hackernews"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:656
+#@ apeco
+msgid "Social hackernews outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:657
+#@ apeco
+msgid "Social html5"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:658
+#@ apeco
+msgid "Social html5 outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:659
+#@ apeco
+msgid "Social instagram"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:660
+#@ apeco
+msgid "Social instagram outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:661
+#@ apeco
+msgid "Social javascript"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:662
+#@ apeco
+msgid "Social javascript outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:663
+#@ apeco
+msgid "Social linkedin"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:664
+#@ apeco
+msgid "Social linkedin outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:665
+#@ apeco
+msgid "Social markdown"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:666
+#@ apeco
+msgid "Social nodejs"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:667
+#@ apeco
+msgid "Social octocat"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:668
+#@ apeco
+msgid "Social pinterest"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:669
+#@ apeco
+msgid "Social pinterest outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:670
+#@ apeco
+msgid "Social python"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:671
+#@ apeco
+msgid "Social reddit"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:672
+#@ apeco
+msgid "Social reddit outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:673
+#@ apeco
+msgid "Social rss"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:674
+#@ apeco
+msgid "Social rss outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:675
+#@ apeco
+msgid "Social sass"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:676
+#@ apeco
+msgid "Social skype"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:677
+#@ apeco
+msgid "Social skype outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:678
+#@ apeco
+msgid "Social snapchat"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:679
+#@ apeco
+msgid "Social snapchat outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:680
+#@ apeco
+msgid "Social tumblr"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:681
+#@ apeco
+msgid "Social tumblr outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:682
+#@ apeco
+msgid "Social tux"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:683
+#@ apeco
+msgid "Social twitch"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:684
+#@ apeco
+msgid "Social twitch outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:685
+#@ apeco
+msgid "Social twitter"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:686
+#@ apeco
+msgid "Social twitter outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:687
+#@ apeco
+msgid "Social usd"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:688
+#@ apeco
+msgid "Social usd outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:689
+#@ apeco
+msgid "Social vimeo"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:690
+#@ apeco
+msgid "Social vimeo outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:691
+#@ apeco
+msgid "Social whatsapp"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:692
+#@ apeco
+msgid "Social whatsapp outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:693
+#@ apeco
+msgid "Social windows"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:694
+#@ apeco
+msgid "Social windows outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:695
+#@ apeco
+msgid "Social wordpress"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:696
+#@ apeco
+msgid "Social wordpress outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:697
+#@ apeco
+msgid "Social yahoo"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:698
+#@ apeco
+msgid "Social yahoo outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:699
+#@ apeco
+msgid "Social yen"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:700
+#@ apeco
+msgid "Social yen outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:701
+#@ apeco
+msgid "Social youtube"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:702
+#@ apeco
+msgid "Social youtube outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:703
+#@ apeco
+msgid "Soup can"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:704
+#@ apeco
+msgid "Soup can outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:705
+#@ apeco
+msgid "Speakerphone"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:706
+#@ apeco
+msgid "Speedometer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:707
+#@ apeco
+msgid "Spoon"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:708
+#@ apeco
+msgid "Star"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:709
+#@ apeco
+msgid "Stats bars"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:710
+#@ apeco
+msgid "Steam"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:711
+#@ apeco
+msgid "Stop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:712
+#@ apeco
+msgid "Thermometer"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:713
+#@ apeco
+msgid "Thumbsdown"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:714
+#@ apeco
+msgid "Thumbsup"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:716
+#@ apeco
+msgid "Toggle filled"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:717
+#@ apeco
+msgid "Transgender"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:718
+#@ apeco
+msgid "Trash a"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:719
+#@ apeco
+msgid "Trash b"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:720
+#@ apeco
+msgid "Trophy"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:721
+#@ apeco
+msgid "Tshirt"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:722
+#@ apeco
+msgid "Tshirt outline"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:723
+#@ apeco
+msgid "Umbrella"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:724
+#@ apeco
+msgid "University"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:725
+#@ apeco
+msgid "Unlocked"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:726
+#@ apeco
+msgid "Upload"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:727
+#@ apeco
+msgid "Usb"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:728
+#@ apeco
+msgid "Videocamera"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:729
+#@ apeco
+msgid "Volume high"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:730
+#@ apeco
+msgid "Volume low"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:731
+#@ apeco
+msgid "Volume medium"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:732
+#@ apeco
+msgid "Volume mute"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:733
+#@ apeco
+msgid "Wand"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:734
+#@ apeco
+msgid "Waterdrop"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:735
+#@ apeco
+msgid "Wifi"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:736
+#@ apeco
+msgid "Wineglass"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:737
+#@ apeco
+msgid "Woman"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:738
+#@ apeco
+msgid "Wrench"
+msgstr ""
+
+#: vc_extend/ion-font-icons.php:739
+#@ apeco
+msgid "Xbox"
+msgstr ""
+
